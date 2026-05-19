@@ -1,0 +1,1 @@
+Thị trường lao động là một phần quan trọng của nền kinh tế, đóng vai trò  then chốt trong việc thúc đẩy tăng trưởng kinh tế, nâng cao đời sống nhân dân và hội nhập quốc tế. Trong bối cảnh hội nhập kinh tế quốc tế ngày càng sâu rộng và tác động mạnh mẽ của Cách mạng công nghiệp 4.0, việc nghiên cứu và phân tích thị trường lao động Việt Nam là vô cùng quan trọng.
