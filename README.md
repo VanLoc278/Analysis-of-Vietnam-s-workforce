@@ -30,13 +30,13 @@ By 2021, the proportion of male workers had increased compared to 2018, while th
 <img width="707" height="637" alt="image" src="https://github.com/user-attachments/assets/100c3ef1-3178-459e-b827-c9ac76fe1716" />
 
 
-The number of employed workers in rural areas showed a slight decline during 2018–2020, followed by a modest increase during 2021–2023.
+- The number of employed workers in rural areas showed a slight decline during 2018–2020, followed by a modest increase during 2021–2023.
 
-The number of employed workers in urban areas increased steadily throughout 2018–2023.
+- The number of employed workers in urban areas increased steadily throughout 2018–2023.
 
-In 2023, there were 32.3 million employed workers in rural areas compared to 19 million in urban areas.
+- In 2023, there were 32.3 million employed workers in rural areas compared to 19 million in urban areas.
 
-Overall, rural employment tended to decrease, while urban employment continued to rise.
+- Overall, rural employment tended to decrease, while urban employment continued to rise.
 
 -> Conclusion: The trend indicates an ongoing shift of labor from rural areas to urban areas, driven by urbanization and economic development.
 
