@@ -13,6 +13,7 @@ This report will focus on analyzing the Vietnamese labor market during the perio
 This project demonstrates visualization tools in Power BI.
 Dataset:
 The data for this analysis was obtained from the General Statistics Office website (https://www.gso.gov.vn/).
+
 <img width="675" height="573" alt="image" src="https://github.com/user-attachments/assets/428cbe8e-cdf1-450d-a568-dc82403a9e3a" />
 
 Tổng số lao động biến động trong giai đoạn 2018–2023, giảm mạnh từ 56 triệu xuống 51 triệu người trong giai đoạn 2019–2021 do ảnh hưởng của đại dịch COVID-19, sau đó phục hồi từ năm 2022.
