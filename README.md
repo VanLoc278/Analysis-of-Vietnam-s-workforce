@@ -13,5 +13,7 @@ This report will focus on analyzing the Vietnamese labor market during the perio
 This project demonstrates visualization tools in Power BI.
 Dataset:
 The data for this analysis was obtained from the General Statistics Office website (https://www.gso.gov.vn/), and includes the following tables:
+<img width="675" height="573" alt="image" src="https://github.com/user-attachments/assets/7059f4fd-1fb3-40f7-8cc6-d8eb18f78edc" />
+
 
 
